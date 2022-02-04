@@ -1,0 +1,40 @@
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.exe
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.deps.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.runtimeconfig.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.runtimeconfig.dev.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.AssemblyReference.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.ColorForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.ConfirmArrowAndResults.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.GameBoardForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.NumberOfGuessesForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.PlayerGuess.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.GenerateResource.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.AssemblyInfoInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.AssemblyInfo.cs
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\A22 Ex05 AnryBentsion 320659865 MalkaAzaria 312413099 - Copy\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.genruntimeconfig.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.exe
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.deps.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.runtimeconfig.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.runtimeconfig.dev.json
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\bin\Debug\netcoreapp3.1\BullsEye.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.AssemblyReference.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.ColorForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.ConfirmArrowAndResults.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.GameBoardForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.NumberOfGuessesForm.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.PlayerGuess.resources
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.GenerateResource.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.AssemblyInfoInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.AssemblyInfo.cs
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.csproj.CoreCompileInputs.cache
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.dll
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.pdb
+C:\Users\ANRI\Desktop\Visual Studio 2019\C#\Projects\מטלה 5\Project for git\BullsEye\BullsEye\obj\Debug\netcoreapp3.1\BullsEye.genruntimeconfig.cache
